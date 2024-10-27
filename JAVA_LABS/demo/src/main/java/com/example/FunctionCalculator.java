@@ -47,3 +47,7 @@ public class FunctionCalculator {
         scanner.close(); // Закрываем сканер
     }
 }
+
+
+
+
